@@ -1,6 +1,10 @@
 # udacity_repo
 New Repository
-## learned new stuff
+## learned new git commands
 * git clone
 * git add
-* git commit
+* git commit -m
+* git push
+* git pull
+* git checkout -b 
+* git merge
